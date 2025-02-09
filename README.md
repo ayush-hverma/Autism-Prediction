@@ -1,4 +1,4 @@
-# Autism Spectrum Disorder (ASD) Screening Data Analysis
+# Autism Spectrum Disorder (ASD) Screening Data Analysis #
 
 This project performs data cleaning, preprocessing, and exploratory data analysis (EDA) on an ASD screening dataset. It involves:
 
@@ -7,7 +7,7 @@ This project performs data cleaning, preprocessing, and exploratory data analysi
 3. Outlier Detection – Identifying outliers using statistical methods (IQR).
 4. Insights for Machine Learning – Understanding patterns in ASD screening data to support predictive modeling.
 
-Program Breakdown
+# Program Breakdown
 1. Data Loading & Exploration: 
 Reads the dataset (train.csv) using pandas.
 Displays basic details such as column names, data types, and missing values.
