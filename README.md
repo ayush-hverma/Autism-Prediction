@@ -1,2 +1,8 @@
-# autism-prediction
-This project focuses on predicting autism spectrum disorder (ASD) using machine learning techniques. The dataset, sourced from Kaggle, contains various behavioral and demographic attributes related to ASD diagnosis. The workflow involves data preprocessing, feature selection, and model training using algorithms like Decision Trees, Random Forest, XGBoost Classifier. Performance evaluation is conducted using metrics such as accuracy, precision, recall, and F1-score. The goal is to develop a reliable model that can assist in early autism detection based on questionnaire responses and other relevant factors.
+# Autism Spectrum Disorder (ASD) Screening Data Analysis
+
+This project performs data cleaning, preprocessing, and exploratory data analysis (EDA) on an ASD screening dataset. It involves:
+
+1. Data Cleaning – Handling missing values, formatting data, and standardizing categorical variables.
+2. Exploratory Data Analysis (EDA) – Visualizing feature distributions, class imbalance, and categorical variable trends.
+3. Outlier Detection – Identifying outliers using statistical methods (IQR).
+4. Insights for Machine Learning – Understanding patterns in ASD screening data to support predictive modeling.
